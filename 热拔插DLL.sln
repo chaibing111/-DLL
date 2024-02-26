@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "热拔插DLL", "热拔插DLL\热拔插DLL.csproj", "{4DEF7CA7-F172-4D20-8E7E-6B9893D3DE92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{1A2158A2-B01D-42D1-8B12-E0C9ADBB65BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginBase", "PluginBase\PluginBase.csproj", "{4E780F84-E15E-4131-B409-AC97EC0503EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DEF7CA7-F172-4D20-8E7E-6B9893D3DE92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DEF7CA7-F172-4D20-8E7E-6B9893D3DE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DEF7CA7-F172-4D20-8E7E-6B9893D3DE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DEF7CA7-F172-4D20-8E7E-6B9893D3DE92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A2158A2-B01D-42D1-8B12-E0C9ADBB65BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2158A2-B01D-42D1-8B12-E0C9ADBB65BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2158A2-B01D-42D1-8B12-E0C9ADBB65BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2158A2-B01D-42D1-8B12-E0C9ADBB65BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E780F84-E15E-4131-B409-AC97EC0503EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E780F84-E15E-4131-B409-AC97EC0503EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E780F84-E15E-4131-B409-AC97EC0503EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E780F84-E15E-4131-B409-AC97EC0503EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03B9AD9B-4883-48AD-B913-088EB22F22DF}
+	EndGlobalSection
+EndGlobal
